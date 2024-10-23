@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #b38f38;
+}
+
+/*PAGINA 1*/
+
+.page-1 h1{
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+}
+
+.page-1 img{
+    display: block;
+    margin: 0 auto;
+}
+
+.page-1 .contenedor-btn{
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #925825;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.contenedor-btn a{
+    display: block;
+    text-align: center;
+    font-size: 15px;
+    text-decoration: none;
+    margin: 0 auto;
+    padding: 15px 40px;
+    width: 150px;
+    background-color: #c87536;
+    border-radius: 5px;
+    color: white;
+}
+
+.contenedor-btn a:hover{
+    background-color: rgb(184, 108, 37);
+    color: white;
+}
+
+/*PAGINA 2*/
+
+.page-2 h1{
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+}
+
+.page-2 img{
+    display: block;
+    margin: 0 auto;
+}
+
+.page-2 .contenedor-btn{
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #925825;
+    width: 250px;
+    height: 50px;
+    border-radius: 10px;
+}
+
+
+/*PAGINA 3*/
+
+.page-3{
+    border: 3px solid rgb(147, 99, 29);
+    width: 350px;
+    margin: 30px auto;
+    background-color: rgb(170, 164, 80);
+    text-align: center;
+    border-radius: 10px;
+}
+
+.page-3 p{
+    color: rgb(49, 90, 152);
+    font-size: 25px;
+    margin: 35px auto 0;
+    width: 350px;
+}
+
+.h1-cumpleaños{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+
+
